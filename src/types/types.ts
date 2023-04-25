@@ -11,5 +11,5 @@ export type Rules = {
     two?: RuleEntry[]
     few?: RuleEntry[]
     many?: RuleEntry[]
-    other?: RuleEntry[]
+    other: RuleEntry[]
 }
